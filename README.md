@@ -1,0 +1,1 @@
+This my first DataScience research done to study the media and technology trend over few years and it's growth and i have also done the visualization by plotting it using Seaborn and matplotlib. This is simply a Data Analyses project
